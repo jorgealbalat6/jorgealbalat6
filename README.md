@@ -1,7 +1,7 @@
 # ¡Bienvenid@ a mi rincón digital! 👨‍💻
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
+  <a href="https://www.linkedin.com/in/jorge-albalat-luengo-285547308/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:jjorgealbalat@gmail.com">
