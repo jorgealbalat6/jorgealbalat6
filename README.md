@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:tu-email@gmail.com">
+<a href="mailto:jjorgealbalat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </p>
